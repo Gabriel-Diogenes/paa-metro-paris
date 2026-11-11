@@ -1,7 +1,6 @@
 # Metrô de Paris
 
-Trabalho prático de Projeto e Análise de Algoritmos, PUC Minas, ICEI, Ciência da Computação. Professor Alexei Machado. Entrega em 16/11/2026, até 19h, pelo Canvas. Valor: 35 pontos. Não há aceitação de atraso.
-
+Trabalho prático de Projeto e Análise de Algoritmos, PUC Minas, ICEI, Ciência da Computação. Professor Alexei Machado.
 ## Integrantes
 
 - Alex de Castro Mendes Marques
